@@ -1,0 +1,7 @@
+fastapi==0.115.12
+mlflow==3.5.0
+numpy==2.2.6
+pandas==2.3.2
+prefect==3.4.25
+scikit-learn==1.7.2
+sqlalchemy==2.0.44

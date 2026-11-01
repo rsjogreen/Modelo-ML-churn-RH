@@ -1,0 +1,10 @@
+# Selección de variables del experimento: ALL, NUMERIC o CUSTOM.
+seleccion: ALL
+
+# Solo se usa cuando seleccion es CUSTOM. Los nombres deben coincidir con el CSV.
+custom:
+  - Age
+  - Balance
+  - NumOfProducts
+  - IsActiveMember
+  - Geography
